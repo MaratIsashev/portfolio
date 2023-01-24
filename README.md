@@ -10,4 +10,4 @@
 - недавно переехал в Питер, погода тут плохая
 - люблю квизы
 
-![мое фото](/)
+![мое фото](https://github.com/MaratIsashev/portfolio/blob/master/IMG_3089.PNG)
